@@ -1,2 +1,5 @@
 # hello-world
-My first Repository
+My first repository
+This is my first forray
+into auto deployment
+Love love love it.
